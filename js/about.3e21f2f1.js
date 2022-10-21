@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_cli_element_plus"]=self["webpackChunkvue_cli_element_plus"]||[]).push([[443],{4391:function(e,n,u){u.r(n),u.d(n,{default:function(){return _}});var t=u(5791),l=(u(6809),u(3396));const s={class:"about"},a=(0,l._)("h1",null,"This is an about page",-1);function c(e,n){const u=t.mi;return(0,l.wg)(),(0,l.iD)("div",s,[a,(0,l.Wm)(u,null,{default:(0,l.w5)((()=>[(0,l.Uk)("I am ElButton")])),_:1})])}var i=u(89);const r={},o=(0,i.Z)(r,[["render",c]]);var _=o}}]);
+//# sourceMappingURL=about.3e21f2f1.js.map
